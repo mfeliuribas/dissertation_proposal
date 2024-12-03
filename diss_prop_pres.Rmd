@@ -1,0 +1,150 @@
+---
+title: "A Variationist Approach to the Expression of Futurity and Epistemicity by Spanish-English Early Bilinguals"
+author: "Meritxell Feliu-Ribas"
+institute: "Rutgers University"
+date: "2024/12/16"
+output:
+  xaringan::moon_reader:
+    css: [default, rutgers, rutgers-fonts]
+---
+# Lit Review
+Write something
+
+---
+# The Current Project
+Write something
+
+---
+# Study 1
+Write something
+
+---
+# Study 2
+Write something
+
+---
+# Study 3
+Write something
+
+---
+# Significance of the Project
+
+* Hispanic Linguistics **&rarr;** Future-time reference and epistemic modality as two of the most discussed topics in theoretical linguistics
+
+* Variationist Sociolinguistics:
+    * Language change and synchronic variation in language contact situations
+    * Examination of structured variation within heritage grammars 
+
+* Grammaticalization Theory **&rarr;** Exploration of pathways of change in the expression of futurity
+
+* Heritage Language Acquisition Theories **&rarr;** Interface phenomena
+
+* Methodological Implications:
+    * Avoid the priming of certain forms
+    * Control for factors that might impact the results
+    * Inferential statistics; Bayesian Data Analysis
+
+---
+# Proposed Outline
+
+* .black[Chapter 1:] Introduction to the phenomena - Problem, rationale, goals, scope
+  
+* .black[Chapter 2:] Theoretical frameworks of grammaticalization and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; variation
+
+* .black[Chapter 3:] Heritage language acquisition theories 
+
+* .black[Chapter 4:] Study 1 - Corpus Study
+
+* .black[Chapter 5:] Study 2 - Rating Task
+
+* .black[Chapter 6:] Study 3 - Semantic Interpretation Task
+
+* .black[Chapter 7:] Conclusions - Theorical implications, limitations, future lines <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of research
+
+---
+# Estimated Timeline
+
+<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0; margin-top: -20px;">
+ <thead>
+  <tr>
+   <th style="font-size:17.75px; text-align:center; height:21pt;"> Description </th>
+   <th style="font-size:17.75px; text-align:center;width:165px;"> Month </th>
+   <th style="font-size:17.75px; text-align:center;"> Year </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Dissertation proposal defense </td>
+   <td style="font-size:17.75px; text-align:center;"> December </td>
+   <td style="font-size:17.75px; text-align:center;"> 2024 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Data collection, codification, and preliminary analysis (Study 1) </td>
+   <td style="font-size:17.75px; text-align:center;"> December-January </td>
+   <td style="font-size:17.75px; text-align:center;"> 2024-2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> IRB Protocol; Data analysis (Study 1) </td>
+   <td style="font-size:17.75px; text-align:center;"> January </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Data analysis; result and discussion sections (Study 1) </td>
+   <td style="font-size:17.75px; text-align:center;"> January-March </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Design and pilot of Studies 2 and 3; <br> Potential changes in the design of the studies
+ </td>
+   <td style="font-size:17.75px; text-align:center;"> January-February </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Chapter 2 </td>
+   <td style="font-size:17.75px; text-align:center;"> March-May </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Data collection and preliminary analysis (Studies 2 and 3) 
+   </td>
+   <td style="font-size:17.75px; text-align:center;"> March-June </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Data analysis; result and discussion sections (Study 2) </td>
+   <td style="font-size:17.75px; text-align:center;"> June-August </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Data analysis; result and discussion sections (Study 3)
+ </td>
+   <td style="font-size:17.75px; text-align:center;"> August-October </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Chapters 1 and 7 </td>
+   <td style="font-size:17.75px; text-align:center;"> November-December </td>
+   <td style="font-size:17.75px; text-align:center;"> 2025 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Send out for revisions </td>
+   <td style="font-size:17.75px; text-align:center;"> January </td>
+   <td style="font-size:17.75px; text-align:center;"> 2026 </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Defense </td>
+   <td style="font-size:17.75px; text-align:center;"> March </td>
+   <td style="font-size:17.75px; text-align:center;"> 2026 </td>
+  </tr>
+</tbody>
+</table>
+
+---
+# References
+Write something
+
+---
+class: center, middle
+
+# <span style="font-size: 80px;"> Thank you!</span>
+
