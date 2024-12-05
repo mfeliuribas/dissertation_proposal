@@ -89,10 +89,81 @@ Four goals **&amp;rarr;** Three studies:
 * Preliminary analysis using 'spaCy' **(Honnibal et al., 2020)**, open-source library for NLP in Python **&amp;rarr;** 2,491 data points
     * 475 tokens for the MF
     * 2,016 tokens for the PF
+    * PI not included &amp;rarr; 'spaCy' not trained to detect pragmatic nuances
+
+* Envelope of variation &amp;rarr; The context in which the forms selected for the analysis are “functionally parallel as well as variable” **(Tagliamonte, 2012, p. 10)**:
+    * Futurity
+    * Epistemic modality
+
+**Specify coding procedure?**
+
+???
+Coding procedure: 
+  * Linguistic factors:
+      * Reading: prospective, epistemic
+      * Form: MF, PF, PI
+      * Temporal distance: immediate, close, distant
+      * Grammatical person (proxy of certainty)
+      * Verb class: dynamic, motion, stative, psychological, perceptual
+      * Adverb specification: yes, no
+  * Social factors:
+      * Participant id
+      * Type of bilingualism: sequential, simultaneous
+      * Age (continuous measure)
+
+---
+### Statistical Analysis
+
+* Two subsets: future reference uses and epistemic uses 
+
+* Future reference uses:
+    * Bayesian multinomial logistic regression model in R **(R Core Team, 2022)**
+    * Form ~ temporal distance + grammatical person + verb class (+ age) + temporal distance:grammatical person
+
+* Epistemic uses:
+    * Hard to tell *a priori*: bi/multinomial logistic regression model vs descriptive stats 
+    * IF a model can be built... &lt;br&gt; Form ~ adverb specification + verb class + type of bilingualism (+ age)
+    * IF a model cannot be built... &lt;br&gt; Descriptive stats + cross-tabulation of factors
 
 ---
 # Study 2
-Write something
+.black[Goal:] To examine the reported preference for the expression of futurity in Spanish by **U.S.** **Spanish-English early bilinguals**, with a focus on less studied forms in previous research (i.e., PF, PI, and PP).
+
+--
+### Research Questions
+
+1. To what degree do  **Spanish-English early bilinguals** in the U.S. report preference for the use of the PF, the PI, and the PP to express futurity?
+
+2. What effect do temporal reference and plan certainty have on the reported usage preferences of these forms, and is there a relationship between these two factors? 
+
+3. a) How do the results of the bilinguals compare to that of Spanish monolinguals? &lt;br&gt;
+  
+  b) If there are differences between groups, can they be better explained by contact with English or by an internally motivated change in progress in the Spanish language?
+
+---
+### Participants
+
+## Write about the participants
+
+### Materials
+
+* Bilingual Language Profile **(Birdsong et al., 2012)**
+
+* Rating Task
+
+## Explain the task better
+
+---
+### Procedure
+
+
+
+### Statistical Analysis
+
+* Bayesian linear regression model in R **(R Core Team, 2022)**
+
+* Rating ~ verb form + temporal distance + plan certainty + group + temporal distance:plan certainty
+
 
 ---
 # Study 3
