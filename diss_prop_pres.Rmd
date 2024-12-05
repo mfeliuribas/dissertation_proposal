@@ -47,7 +47,6 @@ Four goals **&rarr;** Three studies:
 
 .black[Goal:] To examine the synchronic variation of the canonical forms to express futurity in Spanish by **U.S.** **Spanish-English early bilinguals**
 
---
 ### Research Questions
 
 1. What are the rates of use of the MF, the PF, and the PI with future readings among **Spanish-English early bilinguals** in the U.S.?
@@ -108,7 +107,6 @@ Coding procedure:
 # Study 2
 .black[Goal:] To examine the reported preference for the expression of futurity in Spanish by **U.S.** **Spanish-English early bilinguals**, with a focus on less studied forms in previous research (i.e., PF, PI, and PP).
 
---
 ### Research Questions
 
 1. To what degree do  **Spanish-English early bilinguals** in the U.S. report preference for the use of the PF, the PI, and the PP to express futurity?
@@ -122,8 +120,27 @@ Coding procedure:
 ---
 ### Participants
 
-## Write about the participants
+* 60 adult **Spanish-English early bilinguals**
 
+    * Requirements to participate:
+        * Be 18 years of age or older
+        * Born and/or raised in the U.S.
+        * Grew up speaking Spanish or Spanish and English at home
+        * Live in the U.S.
+    
+    * Exclusion criteria **Is it really necessary?**
+    
+* **NUMBER?** Spanish monolinguals
+
+    * Requirements to participate:
+        * Be 18 years of age or older
+        * Born and/or raised in a Spanish monolingual household
+        * Born and/or raised in a Spanish-speaking country
+        * Live in a Spanish-speaking country
+    
+    * Exclusion criteria **Is it really necessary?**
+
+---
 ### Materials
 
 * Bilingual Language Profile **(Birdsong et al., 2012)**
@@ -135,6 +152,8 @@ Coding procedure:
 ---
 ### Procedure
 
+**Is it really necessary?**
+
 
 
 ### Statistical Analysis
@@ -143,10 +162,138 @@ Coding procedure:
 
 * Rating ~ verb form + temporal distance + plan certainty + group + temporal distance:plan certainty
 
-
 ---
 # Study 3
-Write something
+
+.black[Goal:] To examine the knowledge of the semantic values of the Spanish MF by **U.S.** **Spanish-English early bilinguals**.
+
+### Research Questions
+
+1. a) Do **Spanish-English early bilinguals** distinguish between prospective and epistemic uses of the MF when presented with competing interpretations? <br>
+
+  b) Is their interpretation of the MF modulated by Spanish proficiency?
+
+2. How do their interpretations compare with those of monolinguals speakers of Spanish?
+
+---
+### Participants
+
+* 60 adult **Spanish-English early bilinguals**
+
+    * Requirements to participate:
+        * Be 18 years of age or older
+        * Born and/or raised in the U.S.
+        * Grew up speaking Spanish or Spanish and English at home
+        * Live in the U.S.
+    
+    * Exclusion criteria **Is it really necessary?**
+    
+* **NUMBER?** Spanish monolinguals
+
+    * Requirements to participate:
+        * Be 18 years of age or older
+        * Born and/or raised in a Spanish monolingual household
+        * Born and/or raised in a Spanish-speaking country
+        * Live in a Spanish-speaking country
+    
+    * Exclusion criteria **Is it really necessary?**
+
+* Participants from Study 2 will be able to participate if they express their willingness. 
+
+---
+### Materials
+
+* Bilingual Language Profile **(Birdsong et al., 2012)**
+
+* LexTale-Esp **(Izura et al., 2014)**
+
+* Forced Choice Interpretation Task
+
+    * Contextualized stories followed by a sentence with the MF and two potential interpretations of the sentence
+    
+    * Participants will be asked to choose the more accurate interpretation given the context
+    
+    * Items controlled for clause type, person, verb type, and polarity
+    
+    * Manipulated for context: prospective, epistemic
+    
+    * In total, 24 items (10 experimental stimuli)
+
+---
+<br>
+
+<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0;">
+ <thead>
+  <tr>
+   <th style="font-size:17.75px; text-align:left; height:21pt;"> Reading </th>
+   <th style="font-size:17.75px; text-align:left;"> [Epistemic] </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Context </td>
+   <td style="font-size:17.75px; text-align:left;"> Ricardo nunca falta a clase, pero hoy no ha ido. La profesora </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> ‘Ricardo never misses class, but he has not come today. The teacher </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> le pregunta a Juan qué le pasa, </td>
+   </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> asks Juan if he knows what might be wrong with him, </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> pero no lo sabe </td>
+   </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> but Juan does not know.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Sentence </td>
+   <td style="font-size:17.75px; text-align:left;"> Estará enfermo </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> ‘He must be sick.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Task </td>
+   <td style="font-size:17.75px; text-align:left;"> A. Juan piensa que Mateo está enfermo. </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> A. ‘Juan thinks that Mateo is sick.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> B. Juan piensa que Mateo va a estar. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> B. ‘Juan thinks that Mateo will be sick’ </td>
+  </tr>
+</tbody>
+</table>
+
+**Should I add one with a prospective value?**
+
+**Try to add blank spaces between sentences** 
+    
+---
+### Procedure
+
+**Is it really necessary?**
+
+
+
+### Statistical Analysis
+
+* Bayesian binomial regression model in R **(R Core Team, 2022)**
+
+* Choice ~ condition + Spanish proficiency + group
 
 ---
 # Significance of the Project
