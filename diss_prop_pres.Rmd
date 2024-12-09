@@ -73,7 +73,7 @@ Four goals **&rarr;** Three studies:
     * Futurity
     * Epistemic modality
 
-**Specify coding procedure?**
+* Tokens coded for semantic and pragmatic (e.g., grammatical person), and social factors (e.g., age)
 
 ???
 Coding procedure: 
@@ -99,7 +99,7 @@ Coding procedure:
     * Form ~ temporal distance + grammatical person + verb class (+ age) + temporal distance:grammatical person
 
 * Epistemic uses:
-    * Hard to tell *a priori*: bi/multinomial logistic regression model vs descriptive stats 
+    * Hard to tell *a priori* 
     * IF a model can be built... <br> Form ~ adverb specification + verb class + type of bilingualism (+ age)
     * IF a model cannot be built... <br> Descriptive stats + cross-tabulation of factors
 
@@ -127,9 +127,7 @@ Coding procedure:
         * Born and/or raised in the U.S.
         * Grew up speaking Spanish or Spanish and English at home
         * Live in the U.S.
-    
-    * Exclusion criteria **Is it really necessary?**
-    
+
 * **NUMBER?** Spanish monolinguals
 
     * Requirements to participate:
@@ -137,25 +135,167 @@ Coding procedure:
         * Born and/or raised in a Spanish monolingual household
         * Born and/or raised in a Spanish-speaking country
         * Live in a Spanish-speaking country
-    
-    * Exclusion criteria **Is it really necessary?**
 
----
 ### Materials
 
 * Bilingual Language Profile **(Birdsong et al., 2012)**
 
 * Rating Task
 
-## Explain the task better
+---
+#### Rating Task
+* Contextualized stories followed by a sentence with the PF, the PI, or the PP
+
+* Participants will be asked to rate how likely it is for them to say that sentence using a 100-point sliding scale
+
+* Items controlled for clause type, person, verb type, and polarity 
+
+* Items manipulated for
+
+    * Form: PF vs PI vs PP
+    * Temporal distance: immediate vs close vs distant
+    * Plan certainty: certain vs uncertain
+
+* A total of 36 contexts divided into 6 conditions
+
+      1. Immediate and certain event
+      2. Close and certain event
+      3. Distant and certain event
+      4. Immediate and uncertain event
+      5. Close and uncertain event
+      6. Distant and uncertain event
 
 ---
-### Procedure
+<br>
 
-**Is it really necessary?**
+<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0;">
+ <thead>
+  <tr>
+   <th style="font-size:17.75px; text-align:left; height:21pt;">  </th>
+   <th style="font-size:17.75px; text-align:left;"> [immediate, certain] </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Context </td>
+   <td style="font-size:17.75px; text-align:left;"> Mateo y Laura terminaron los deberes y hablan de sus planes. </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> ‘Mateo and Laura finished their homework and talk about their plans. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> Mateo, que ya lo ha decidido, le dice: </td>
+   </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> Mateo, who has already decided, says:’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Sentence </td>
+   <td style="font-size:17.75px; text-align:left;"> 1. En 5 minutos voy a jugar al fútbol. </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 1. ‘I am going to play soccer in 5 minutes.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 2. En 5 minutos juego al fútbol. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 2. ‘I play soccer in 5 minutes’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 3. En 5 minutos estoy jugando al fútbol.. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 3. ‘I am playing soccer in 5 minutes.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Task </td>
+   <td style="font-size:17.75px; text-align:left;"> ¿Cómo de probable es que tú digas esta frase? </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> ‘How likely are you to say this sentence?’ </td>
+  </tr>
+</tbody>
+</table>
+
+---
+<br>
+
+<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0;">
+ <thead>
+  <tr>
+   <th style="font-size:17.75px; text-align:left; height:21pt;">  </th>
+   <th style="font-size:17.75px; text-align:left;"> [distant, uncertain] </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Context </td>
+   <td style="font-size:17.75px; text-align:left;"> El consejero académico le pregunta a Sara qué clases  </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> ‘The academic advisor asks Sara what classes </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> está pensando tomar el próximo año. Ella, aunque no está </td>
+   </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> she is planning on taking next year. Although she is not </td>
+  </tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> del todo segura, contesta: </td>
+   </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> completely sure, she replies:’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Sentence </td>
+   <td style="font-size:17.75px; text-align:left;"> 1. El año que viene voy a tomar biología. </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 1. ‘I am going to take biology next year.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 2. El año que viene tomo biología. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 2. ‘I take biology next year.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 3. El año que viene estoy tomando biología. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> 3. ‘I am taking biology next year.’ </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> Task </td>
+   <td style="font-size:17.75px; text-align:left;"> ¿Cómo de probable es que tú digas esta frase? </td>
+  <tr>
+   <td style="font-size:17.75px; text-align:left;"> </td>
+   <td style="font-size:17.75px; text-align:left;"> ‘How likely are you to say this sentence?’ </td>
+  </tr>
+</tbody>
+</table>
 
 
 
+* Each unique context will be paired with 3 sentences designed as syntactic minimal pairs
+
+
+---
 ### Statistical Analysis
 
 * Bayesian linear regression model in R **(R Core Team, 2022)**
@@ -185,9 +325,7 @@ Coding procedure:
         * Born and/or raised in the U.S.
         * Grew up speaking Spanish or Spanish and English at home
         * Live in the U.S.
-    
-    * Exclusion criteria **Is it really necessary?**
-    
+
 * **NUMBER?** Spanish monolinguals
 
     * Requirements to participate:
@@ -195,8 +333,6 @@ Coding procedure:
         * Born and/or raised in a Spanish monolingual household
         * Born and/or raised in a Spanish-speaking country
         * Live in a Spanish-speaking country
-    
-    * Exclusion criteria **Is it really necessary?**
 
 * Participants from Study 2 will be able to participate if they express their willingness. 
 
@@ -278,17 +414,11 @@ Coding procedure:
 </tbody>
 </table>
 
-**Should I add one with a prospective value?**
+**Should I add one with a prospective value? Sí! lo puedo decir oralmente O ponerlo en la diapositiva y explicarlo**
 
 **Try to add blank spaces between sentences** 
     
 ---
-### Procedure
-
-**Is it really necessary?**
-
-
-
 ### Statistical Analysis
 
 * Bayesian binomial regression model in R **(R Core Team, 2022)**
@@ -331,6 +461,8 @@ Coding procedure:
 * .black[Chapter 7:] Conclusions - Theorical implications, limitations, future lines <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of research
 
 ---
+exclude: true
+
 # Estimated Timeline
 
 <table style="border-collapse: separate;border-spacing: 0px 5px; border: 0; margin-top: -20px;">
