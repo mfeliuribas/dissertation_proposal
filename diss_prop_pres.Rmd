@@ -73,7 +73,7 @@ Four goals **&rarr;** Three studies:
     * Futurity
     * Epistemic modality
 
-* Tokens coded for semantic and pragmatic (e.g., grammatical person), and social factors (e.g., age)
+* Tokens coded for semantic and pragmatic factors (e.g., grammatical person), and social factors (e.g., age)
 
 ???
 Coding procedure: 
@@ -152,9 +152,9 @@ Coding procedure:
 
 * Items manipulated for
 
-    * Form: PF vs PI vs PP
-    * Temporal distance: immediate vs close vs distant
-    * Plan certainty: certain vs uncertain
+    * Verb form: PF, PI, PP
+    * Temporal distance: immediate, close, distant
+    * Plan certainty: certain, uncertain
 
 * A total of 36 contexts divided into 6 conditions
 
@@ -168,58 +168,58 @@ Coding procedure:
 ---
 <br>
 
-<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0;">
+<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0; background-color: white !important;">
  <thead>
   <tr>
-   <th style="font-size:17.75px; text-align:left; height:21pt;">  </th>
-   <th style="font-size:17.75px; text-align:left;"> [immediate, certain] </th>
+   <th style="font-size:17.75px; text-align:left; height:21pt; background-color: white !important; width:10%;">  </th>
+   <th style="font-size:17.75px; text-align:left; background-color: white !important; width:90%;"> [immediate, certain] </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> Context </td>
-   <td style="font-size:17.75px; text-align:left;"> Mateo y Laura terminaron los deberes y hablan de sus planes. </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> <b>Context</b> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> Mateo y Laura terminaron los deberes y hablan de sus planes. </td>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> ‘Mateo and Laura finished their homework and talk about their plans. </td>
+   <td style="font-size:17.5px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.5px; text-align:left; background-color: white !important;"> ‘Mateo and Laura finished their homework and talk about their plans.<br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> Mateo, que ya lo ha decidido, le dice: </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> Mateo, que ya lo ha decidido, le dice: </td>
    </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> Mateo, who has already decided, says:’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> Mateo, who has already decided, says:’ <br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> Sentence </td>
-   <td style="font-size:17.75px; text-align:left;"> 1. En 5 minutos voy a jugar al fútbol. </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> <b>Sentence</b> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 1. En 5 minutos voy a jugar al fútbol. </td>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 1. ‘I am going to play soccer in 5 minutes.’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 1. ‘I am going to play soccer in 5 minutes.’ <br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 2. En 5 minutos juego al fútbol. </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 2. En 5 minutos juego al fútbol. </td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 2. ‘I play soccer in 5 minutes’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 2. ‘I play soccer in 5 minutes.’ <br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 3. En 5 minutos estoy jugando al fútbol.. </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 3. En 5 minutos estoy jugando al fútbol. </td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 3. ‘I am playing soccer in 5 minutes.’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 3. ‘I am playing soccer in 5 minutes.’ <br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> Task </td>
-   <td style="font-size:17.75px; text-align:left;"> ¿Cómo de probable es que tú digas esta frase? </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> <b>Task</b> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> ¿Cómo de probable es que tú digas esta frase? </td>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> ‘How likely are you to say this sentence?’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> ‘How likely are you to say this sentence?’ </td>
   </tr>
 </tbody>
 </table>
@@ -227,75 +227,83 @@ Coding procedure:
 ---
 <br>
 
-<table style="border-collapse: separate;border-spacing: 0px 5px; border: 0;">
+<table style="border-collapse: separate; border-spacing: 0px 5px; border: 0; width: 100%; background-color: white !important;">
  <thead>
   <tr>
-   <th style="font-size:17.75px; text-align:left; height:21pt;">  </th>
-   <th style="font-size:17.75px; text-align:left;"> [distant, uncertain] </th>
+   <th style="font-size:17.75px; text-align:left; height:21pt; width:10%; background-color: white !important;"> </th>
+   <th style="font-size:17.75px; text-align:left; width:90%; background-color: white !important;"> [distant, uncertain] </th>
   </tr>
  </thead>
-<tbody>
+ <tbody>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> Context </td>
-   <td style="font-size:17.75px; text-align:left;"> El consejero académico le pregunta a Sara qué clases  </td>
-  <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> ‘The academic advisor asks Sara what classes </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> <b>Context</b> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> El consejero académico le pregunta a Sara qué clases está pensando </td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> está pensando tomar el próximo año. Ella, aunque no está </td>
-   </tr>
-  <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> she is planning on taking next year. Although she is not </td>
-  </tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> del todo segura, contesta: </td>
-   </tr>
-  <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> completely sure, she replies:’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> ‘The academic advisor asks Sara what classes she is planning on <br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> Sentence </td>
-   <td style="font-size:17.75px; text-align:left;"> 1. El año que viene voy a tomar biología. </td>
-  <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 1. ‘I am going to take biology next year.’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> tomar el próximo año. Ella, aunque no está del todo segura, contesta:</td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 2. El año que viene tomo biología. </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> taking next year. Although she is not completely sure, she replies:<br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 2. ‘I take biology next year.’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> <b>Sentence</b> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 1. El año que viene voy a tomar biología. </td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 3. El año que viene estoy tomando biología. </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 1. ‘I am going to take biology next year.’ <br><br></td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> 3. ‘I am taking biology next year.’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 2. El año que viene tomo biología. </td>
   </tr>
   <tr>
-   <td style="font-size:17.75px; text-align:left;"> Task </td>
-   <td style="font-size:17.75px; text-align:left;"> ¿Cómo de probable es que tú digas esta frase? </td>
-  <tr>
-   <td style="font-size:17.75px; text-align:left;"> </td>
-   <td style="font-size:17.75px; text-align:left;"> ‘How likely are you to say this sentence?’ </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 2. ‘I take biology next year.’ <br><br></td>
   </tr>
-</tbody>
+  <tr>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 3. El año que viene estoy tomando biología. </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> 3. ‘I am taking biology next year.’ <br><br></td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> <b>Task</b> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> ¿Cómo de probable es que tú digas esta frase? </td>
+  </tr>
+  <tr>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> </td>
+   <td style="font-size:17.75px; text-align:left; background-color: white !important;"> ‘How likely are you to say this sentence?’ </td>
+  </tr>
+ </tbody>
 </table>
 
-
-
-* Each unique context will be paired with 3 sentences designed as syntactic minimal pairs
-
-
 ---
+<br>
+
+* A total of 218 items:
+
+    * 108 target stimuli
+    * 108 distractors
+    * 2 traning items
+    
+* Targets and distractors will be combined and divided into 3 lists
+
+* Each participant will be presented with 74 items:
+
+    * 36 target stimuli
+    * 36 distractors
+    * 2 traning items
+
+--
 ### Statistical Analysis
 
 * Bayesian linear regression model in R **(R Core Team, 2022)**
