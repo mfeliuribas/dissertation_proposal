@@ -15,7 +15,7 @@ output:
 * Expression of futurity in Spanish:
     * Complex phenomenon (e.g., Azpiazu, 2024; Escandell-Vidal, 2014, 2019)
     
-    * Prime example of diachronic linguistic variation leading to a language change (Orozco, 2022)
+    * Prime example of diachronic and synchronic variation leading to a language change (Orozco, 2022)
         * Morphological Future (MF): *cantaré*, 'I will sing'
         * Periphrastic Future (PF): *voy a cantar*, 'I am going to sing'
         * Present Indicative (PI): *canto*, 'I sing'

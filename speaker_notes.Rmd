@@ -4,36 +4,36 @@ Good morning, everyone! I will present to you my dissertation proposal, which is
 
 
 # Futurity and Epistemicity
-The expression of futurity in Spanish is a complex phenomenon that has been intensively studied in both theoretical and applied linguistics, and it is a prime example of diachronic linguistic variation leading to a language change, as future-time reference can be expressed using a variety of forms such as the MF, the PF, the PI, and the PP, among others.
+The expression of futurity in Spanish is a complex phenomenon that has been intensively studied in both theoretical and applied linguistics, and it is a prime example of diachronic and syncrhonic linguistic variation leading to a language change, as future-time reference can be expressed using a variety of forms such as the MF, the PF, the PI, and the PP, among others.
 
 Closely related to futurity is the epistemic modality, since some theoretical and experimental linguists consider that the MF in particular should no longer be considered a marker of futurity, but, rather, of probability. 
 
 In this presentation, I will interpret ‘future’ as an event or state that is posterior to the moment of speech, and, following Reichenbach's (1947) model, I will assume that the event time and the reference time coincide. So, when using the terms ‘future’ and ‘futurity’, I will refer to the notion of time itself. 
 
-As for the epistemic modality, I will interpret it as the speaker’s level of certainty towards the event, or the probability of the event being true. This event coincides with the speech time and, thus, does not receive a futurity reading, but a present one. 
+As for the epistemic modality, I will interpret it as the speaker’s level of certainty towards the event, or the probability of the event being true. Importantly, this event coincides with the speech time and, thus, does not receive a futurity reading, but a present one. 
 
 
 ## Future-time reference
-As for the expression of futurity, two main trends have been documented across Spanish monolingual communities in oral speech: (1) the PF is generally the preferred form to express future-time reference, and (2) the use of the MF is gradually decreasing.
+As for the expression of futurity, two main trends have been documented across Spanish monolingual communities in oral speech: (1) the PF is generally the preferred form to express future-time reference, and (2) the use of the MF is gradually decreasing, as this form is more frequently used to express probability.
 
-In addition, the studies have identified several key linguistic factors that constrain the uses of the forms to express futurity, being temporal distance and plan certanty two of the most relevant. For example, the MF is generally favored in distant, unbounded, and uncertain plans, whereas the PF, the PI, and the PP are preferred in near futures and contexts of certainty. 
+In addition, the studies have identified several key linguistic factors that constrain the uses of the forms to express futurity, being temporal distance and plan certainty two of the most relevant. For example, the MF is generally favored in distant, unbounded, and uncertain plans, whereas the PF, the PI, and the PP are preferred in near futures and contexts of certainty. 
 
 As for the social factors, there have been contradictory results, so it is not well understood, at least, for now, if the expression of futurity is socially constraint. 
 
 ## Epistemic modality
-In regard to the expression of the epistemic modality, we don't know much either. It is known that children acquire the probabilistic MF earlier than the prospective one, and that, among adults, the MF is mainly used to convey probability, despite some exceptions. 
+In regard to the expression of the epistemic modality, we don't know much. It is known, though, that children acquire the probabilistic MF earlier than the prospective one, and that, among adults, the MF is mainly used to convey probability, despite some exceptions in some specific speech communities. 
 
 ## What about early bilinguals
-Despite many studies on monolingual speakers, little is known about the expression of futurity and epistemic modality by early Spanish-English bilinguals. In addition, studies that address this issue in bilingual populations are often subject to methodological limitations; for example, they do not consider nor circumscribe the envelope of variation, or they do not control for important predictors in the experimental design. 
+Despite many studies on monolingual speakers, little is known about the expression of futurity and epistemic modality by early Spanish-English bilinguals. In addition, studies that address this issue in bilingual populations are often subject to methodological limitations; for example, they do not consider nor circumscribe the envelope of variation, or they do not control for important factor in the experimental design. 
 
-Despite promising observations in previous literature, such as that the PI and the PP are undergoing grammaticalization and that language contact situations accelerate internally-motivated changes in the language, research has yet to comprehensively address, using a sound methodology informed by variationist, grammaticalization, and semantic theories, the expression of futurity and epistemic modality in language contact situations.
+Despite promising observations in previous literature, such as that the PI and the PP might be undergoing grammaticalization and that language contact situations accelerate internally-motivated changes in the language, research has yet to comprehensively address, using a sound methodology informed by variationist, grammaticalization, and semantic theories, the expression of futurity and epistemic modality in bilingual populations.
 
 
 # The Current Project
 So, with my dissertation, I aim to fill this gap and, specifically:
 - focus on synchronic variation in language contact situations, by offering a more comprehensive approach to understanding the acquisition and use of the forms to express futurity and epistemicity in bilingual populations
 - examine the linguistic factors that constrain the uses of the MF, the PF, and the PI with future and epistemic readings
-- explore the variable use of the PI and the PP in context con futurity in order to shed some light on the potential grammaticalization of these forms, which has been argued to be faster in situations of language contact
+- explore the variable use of the PI and the PP in context of futurity in order to shed some light on the potential grammaticalization of these forms, which has been argued to be faster in situations of language contact
 - and, lastly, analyze the knowledge of the prospective and epistemic MF to better understand the semantic-pragmatic values that early bilinguals associate with this form
 
 
