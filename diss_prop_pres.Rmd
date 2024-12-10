@@ -10,6 +10,8 @@ output:
 
 # Futurity and Epistemicity
 
+<div style="font-size: 95%">
+
 * Expression of futurity in Spanish:
     * Complex phenomenon (e.g., Azpiazu, 2024; Escandell-Vidal, 2014, 2019)
     
@@ -19,7 +21,7 @@ output:
         * Present Indicative (PI): *canto*, 'I sing'
         * Present Progressive (PP): *estoy cantando*, 'I am singing'
 
-* Futurity **&rarr;** Epistemic Modality
+* Futurity **&rarr;** Epistemic Modality: <br> *Laura estará en casa*, 'Laura <u>will be</u> at home'; 'Laura <u>must be</u> at home'
 
 * Some definitions:
   * Future: an event or state posterior to the moment of speech (Comrie, 1985; Reichenbach, 1947)
@@ -27,6 +29,8 @@ output:
   * Epistemicity: speaker's level of certainty toward the utterance (Gennari, 2000; Kearns, 2011)
   
 ---
+<div style="font-size: 95%">
+
 #### <span style="color: #cc0033;">Future-time reference</span>
 
 * Two main trends documented across Spanish varieties in oral speech (for some exceptions, see Díaz-Peralta & Almeida, 2000):
@@ -52,6 +56,8 @@ output:
 
 
 ---
+<div style="font-size: 95%">
+
 <div style="margin-top: 25px;"></div>
 
   <div style="text-align: left; font-weight: bold; color: #cc0033;">
@@ -74,10 +80,12 @@ What about early bilinguals (i.e., *heritage speakers*)?
     
     * No inferential stats
     
-* Documentation of several important trends that warrant further investigation
+* Documentation of several trends that warrant further investigation
 
 ---
 # The Current Project
+
+<div style="font-size: 95%">
 
 Four goals **&rarr;** Three studies:
 
@@ -91,6 +99,8 @@ Four goals **&rarr;** Three studies:
 
 ---
 # Study 1
+
+<div style="font-size: 95%">
 
 .black[Goal:] To examine the synchronic variation of the canonical forms to express futurity in Spanish by U.S. early Spanish-English bilinguals
 
@@ -107,6 +117,8 @@ Four goals **&rarr;** Three studies:
 4. What is the effect of adverb specification, verb class, and type of bilingualism on the epistemic uses of these forms? 
 
 ---
+<div style="font-size: 95%">
+
 ### Methods
 
 * *Corpus del Español en Arizona, CESA* (Carvalho, 2012-) and *Spanish in Texas Corpus, STC* (Bullock & Toribio, 2024)
@@ -137,6 +149,8 @@ Coding procedure:
       * Age (continuous measure)
 
 ---
+<div style="font-size: 95%">
+
 ### Statistical Analysis
 
 * Two subsets: future reference uses and epistemic uses 
@@ -150,8 +164,13 @@ Coding procedure:
     * IF a model can be built... <br> Form ~ adverb specification + verb class + type of bilingualism (+ age)
     * IF a model cannot be built... <br> Descriptive stats + cross-tabulation of factors
 
+* Contributions to theories of language variation and grammaticalization
+
 ---
 # Study 2
+
+<div style="font-size: 95%">
+
 .black[Goal:] To examine the reported preference for the expression of futurity in Spanish by U.S. early Spanish-English bilinguals, with a focus on less studied forms in previous research (i.e., PF, PI, and PP)
 
 ### Research Questions
@@ -165,9 +184,11 @@ Coding procedure:
   b) If there are differences between groups, can they be better explained by contact with English or by an internally motivated change in progress in the Spanish language?
 
 ---
+<div style="font-size: 95%">
+
 ### Participants
 
-* 60 adult early Spanish-English bilinguals
+* A minimum of 60 adult early Spanish-English bilinguals
 
     * Requirements to participate:
         * Be 18 years of age or older
@@ -175,7 +196,7 @@ Coding procedure:
         * Grew up speaking Spanish or Spanish and English at home
         * Live in the U.S.
 
-* **NUMBER?** Spanish monolinguals
+* A minumum of 21 Spanish monolinguals
 
     * Requirements to participate:
         * Be 18 years of age or older
@@ -190,6 +211,8 @@ Coding procedure:
 * Rating Task
 
 ---
+<div style="font-size: 95%">
+
 #### Rating Task
 * Contextualized stories followed by a sentence with the PF, the PI, or the PP
 
@@ -334,7 +357,7 @@ Coding procedure:
 </table>
 
 ---
-<br>
+<div style="font-size: 95%">
 
 * A total of 218 items:
 
@@ -350,14 +373,20 @@ Coding procedure:
     * 36 distractors
     * 2 traning items
 
+* Feedback from external member (Prof. Naomi Shin)
+
 ### Statistical Analysis
 
 * Bayesian linear regression model in R (R Core Team, 2022)
 
 * Rating ~ verb form + temporal distance + plan certainty + group + temporal distance:plan certainty
 
+* Contributions to theories of language variation and grammaticalization
+
 ---
 # Study 3
+
+<div style="font-size: 95%">
 
 .black[Goal:] To examine the knowledge of the semantic values of the Spanish MF by U.S. early Spanish-English bilinguals
 
@@ -370,9 +399,11 @@ Coding procedure:
 2. How do their interpretations compare with those of monolinguals speakers of Spanish?
 
 ---
+<div style="font-size: 95%">
+
 ### Participants
 
-* 60 adult early Spanish-English bilinguals
+* A minimum of 60 adult early Spanish-English bilinguals
 
     * Requirements to participate:
         * Be 18 years of age or older
@@ -380,7 +411,7 @@ Coding procedure:
         * Grew up speaking Spanish or Spanish and English at home
         * Live in the U.S.
 
-* **NUMBER?** Spanish monolinguals
+* A minimum of 20 Spanish monolinguals
 
     * Requirements to participate:
         * Be 18 years of age or older
@@ -391,6 +422,8 @@ Coding procedure:
 * Participants from Study 2 will be able to participate if they express their willingness
 
 ---
+<div style="font-size: 95%">
+
 ### Materials
 
 * Bilingual Language Profile (Birdsong et al., 2012)
@@ -533,14 +566,20 @@ Coding procedure:
 
     
 ---
+<div style="font-size: 95%">
+
 ### Statistical Analysis
 
 * Bayesian binomial regression model in R (R Core Team, 2022)
 
 * Choice ~ condition + Spanish proficiency + group
 
+* Contributions to heritage language acquisition theories
+
 ---
 # Significance of the Project
+
+<div style="font-size: 95%">
 
 * Hispanic Linguistics **&rarr;** Future-time reference and epistemic modality as two of the most discussed topics in theoretical linguistics
 
@@ -559,6 +598,8 @@ Coding procedure:
 
 ---
 # Proposed Outline
+
+<div style="font-size: 95%">
 
 * .black[Chapter 1:] Introduction to the Phenomena - Problem, rationale, goals, scope
   
@@ -738,4 +779,6 @@ exclude: true
 class: center, middle
 
 # <span style="font-size: 80px;"> Thank you!</span>
+
+# <span style="font-size: 80px;"> ¡Gracias!</span>
 
