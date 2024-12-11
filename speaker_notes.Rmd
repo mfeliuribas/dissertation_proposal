@@ -45,14 +45,16 @@ In particular, I address the following RQs...
 ## Methods
 Data will be extracted from the Corpus del Español en Arizona, and the Spanish in Texas Corpus; two sociolinguistic corpora that were created around the same time and that followed similar methodologies. 
 
-In order to confirm the suitability of this method and the availability of the data, I wrote a script on Phython, using spaCy, that counted tokens of the MF and the PF by using the part-of-speech tagging and the morphologizer. The script selected 475 tokens for the MF and 2,016 for the PF, which makes a total of 2,491 datapoints in both corpora. 
+In order to confirm the suitability of this method and the availability of the data, I wrote a script on Phython, using spaCy, that counted tokens of the MF and the PF by using the part-of-speech tagging and the morphologizer. The script selected 475 tokens for the MF and 2,016 for the PF, which makes a total of 2,491 data points in both corpora. 
 
-Two linguistics contexts will be considered the envelope of variation, namely futurity and epistemicity. Even though this is not the common approach in studies on futurity expression, I have decided to consider both envelopes of variation because the inclusion of the epistemic modality might offer insights about shifts in the trends within the variable expression of futurity in general, and about the synchronic use of the MF in particular. 
+Two linguistics contexts will be considered the envelope of variation, namely futurity and epistemicity. Even though this is not the most common approach in studies on futurity expression, I have decided to consider both envelopes of variation because the inclusion of the epistemic modality might offer insights into the variable expression of futurity in general, and into the synchronic use of the MF in particular. 
 
 All future-time reference and epistemic tokens will be extracted manually, and coded for semantic, pragmatic, and social factors. 
 
 ## Statistical Analysis 
-The data will be analyzed in two subsets, one for each envelope of variation. For the future readings, the data will be analyzed using a Bayesian multinomial logistic regression model in R (R Core Team, 2022) that will analyze verb form as a function of temporal distance, grammatical person, and verb class, plus a two-way interaction between temporal distance and grammatical person. 
+The data will be analyzed in two subsets, one for each envelope of variation.
+
+For the future readings, the data will be analyzed using a Bayesian multinomial logistic regression model in R (R Core Team, 2022) that will analyze verb form as a function of temporal distance, grammatical person, and verb class, plus a two-way interaction between temporal distance and grammatical person. 
 
 As for the context of epitemicity, if the verb form has more than one level, I will build a binomial (MF, PF/PI) or multinomial model (MF, PF, PI) that will analyze verb form as a function of adverb specification, verb class, and type of bilingualism (sequential, simultaneous). In case that there is only one form employed with such meaning (e.g., only the MF), I will provide descriptive statistics through cross-tabulation of factors. 
 
@@ -60,42 +62,44 @@ The results from this study will contribute to our knowledge of the synchronic v
 
 
 # Study 2
-In this study, I will examine the reported preference for the expression of futurity in the Spanish spoken by early Spanish-English bilinguals, with a focus on less studied forms that might be undergoing grammaticalization. 
+In the second study, I will examine the reported preference for the expression of futurity in Spanish by early Spanish-English bilinguals, with a focus on less studied forms that might be undergoing grammaticalization. 
 
-In particular, I address the following RQs...
+Specifically, I address these RQs...
 
 ## Participants
-A minimum of 60 early Spanish-English early bilinguals from the U.S. will be recruited for this study. 
+A minimum of 60 early Spanish-English bilinguals from the U.S. will be recruited for this study. 
 
-In order to explore if there are innovative uses among the bilinguals and the nature of such uses, there will be a control group comprised by Spanish speakers. Importantly, I will try to match the bilingual group with the monolingual group in terms of age and Spanish varieties. 
+In order to explore if there are innovative uses among the bilinguals and the nature of such uses, there will be a control group comprised by Spanish speakers. 
+
+Importantly, I will try to match the monolingual group with the bilingual group especially in terms of age and Spanish varieties. 
 
 ## Materials
-Drawing from similar methodologies used in previous studies that focused on the use of variable structures in Spanish, participants will compelete the Bilingual Language Profile, and the experimental task using Quatrics. 
+Drawing from similar methodologies used in previous studies that focused on the use of variable structures in Spanish, participants will complete the Bilingual Language Profile, and the experimental task using Quatrics. 
 
 In the experimental task, participants will read a context followed by a sentence with either the PF, the PI, or the PP, and will be asked to rate, using a 100-point sliding scale, how likely it is for them to say that sentence. 
 
 The items will be controlled for clause type, person, verb type, and polarity, and will be manipulated for verb form, temporal distance, and plan certainty.
 
-I will create a total of 36 contexts, that will be divided into six conditions, that will be a unique combination of temporal reference and plan certainty.
+I will create a total of 36 contexts, that will be divided into six conditions, being each condition a unique combination of temporal reference and plan certainty.
 
 There will be a total of 108 target stimuli, a proportional number of distractors, and two training items. The targets and the distractions will be combined and divided into three lists, and participants will be presented with one of the lists, that is, 74 items.
 
-Recent, outside feedback suggested adding a version of the task in English and having bilinguals complete both. Even though this suggestion make sense based on the goals of the dissertation, I haven't had enough time to fully implement it, but I intend to do so in the future. 
+Before moving to the statistical analysis, I actually have a comment that I would address to my committee. Recent, outside feedback suggested adding a version of the task in English and having bilinguals complete both. Even though this suggestion make sense based on the goals of the dissertation, I haven't had enough time to fully implement it, but I intend to do so in the future; so maybe it is something that we could talk about during the questions session. 
 
 
 ## Statistical Analysis
-The data will be analyzed using a Bayesian linear regression model in R that will analyze rating as a function of verb form, temporal distance, plan certainty, and group, plus a two-way interaction between temporal distance and plan certainty. 
+**The data will be analyzed using a Bayesian linear regression model in R that will analyze rating as a function of verb form, temporal distance, plan certainty, and group, plus a two-way interaction between temporal distance and plan certainty. **
 
-The results from this study will provide detail about less commonly studied forms to express futurity. In addition, it will contribute to grammaticalization theory by examining the pathways of alternative forms to express futurity and will inform theories of language change and variation in bilingual settings.
+The results from this study will provide detail about less commonly studied forms to express futurity, will contribute to grammaticalization theory by examining the pathways of these alternative forms, and will inform theories of language change and variation in bilingual settings.
 
 
 # Study 3
-In this study, I will examine the acquisition of the epistemic and prospective MF by early Spanish-English bilinguals. 
+In the last study, I will examine the acquisition of the epistemic and prospective MF by early Spanish-English bilinguals. 
 
 In particular, I address the following RQs...
 
 ## Participants
-As in the previous study, I intend to recruit a minimum of 60 early Spanish-English early bilinguals from the U.S., and 21 Spanish monolinguals.
+As in the previous study, I intend to recruit a minimum of 60 early Spanish-English  bilinguals from the U.S., and a control group of Spanish monolinguals.
 
 Those participants from Study 2 that would like to participate in Study 3 will be able to do so.
 

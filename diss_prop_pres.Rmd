@@ -179,7 +179,7 @@ Coding procedure:
 
 2. What effect do temporal reference and plan certainty have on the reported usage preferences of these forms, and is there a relationship between these two factors? 
 
-3. a) How do the results of the bilinguals compare to that of Spanish monolinguals? <br>
+3. a) How do the results of the bilinguals compare to those of Spanish monolinguals? <br>
   
   b) If there are differences between groups, can they be better explained by contact with English or by an internally motivated change in progress in the Spanish language?
 
@@ -188,7 +188,7 @@ Coding procedure:
 
 ### Participants
 
-* A minimum of 60 adult early Spanish-English bilinguals
+* A minimum of 60 early Spanish-English bilinguals
 
     * Requirements to participate:
         * Be 18 years of age or older
@@ -403,7 +403,7 @@ Coding procedure:
 
 ### Participants
 
-* A minimum of 60 adult early Spanish-English bilinguals
+* A minimum of 60 early Spanish-English bilinguals
 
     * Requirements to participate:
         * Be 18 years of age or older
