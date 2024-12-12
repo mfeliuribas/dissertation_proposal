@@ -21,7 +21,7 @@ output:
         * Present Indicative (PI): *canto*, 'I sing'
         * Present Progressive (PP): *estoy cantando*, 'I am singing'
 
-* Futurity **&rarr;** Epistemic Modality: <br> *Laura estará en casa*, 'Laura <u>will be</u> at home'; 'Laura <u>must be</u> at home'
+* Futurity **&rarr;** Epistemic Modality: <br> *Laura <u>estará</u> en casa*, 'Laura <u>will be</u> at home'; 'Laura <u>must be</u> at home'
 
 * Some definitions:
   * Future: an event or state posterior to the moment of speech (Comrie, 1985; Reichenbach, 1947)
@@ -482,25 +482,25 @@ Coding procedure:
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> <b>Sentence</b> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> Estará enfermo </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> Estará enfermo. </td>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> ‘He must be sick.’ <br><br> </td>
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> <b>Task</b> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> A. Juan piensa que Mateo está enfermo. </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> A. Juan piensa que Ricardo está enfermo. </td>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> A. ‘Juan thinks that Mateo is sick.’ <br><br> </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> A. ‘Juan thinks that Ricardo is sick.’ <br><br> </td>
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> B. Juan piensa que Mateo va a estar. </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> B. Juan piensa que Ricardo va a estar. </td>
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> B. ‘Juan thinks that Mateo will be sick.’ </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> B. ‘Juan thinks that Ricardo will be sick.’ </td>
   </tr>
 </tbody>
 </table>
@@ -541,7 +541,7 @@ Coding procedure:
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> <b>Sentence</b> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> Estará en casa </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> Estará en casa. </td>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> ‘She will be at home.’ <br><br> </td>

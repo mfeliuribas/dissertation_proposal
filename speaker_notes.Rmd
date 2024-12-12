@@ -84,7 +84,7 @@ I will create a total of 36 contexts, that will be divided into six conditions, 
 
 There will be a total of 108 target stimuli, a proportional number of distractors, and two training items. The targets and the distractions will be combined and divided into three lists, and participants will be presented with one of the lists, that is, 74 items.
 
-Before moving to the statistical analysis, I actually have a comment that I would address to my committee. Recent, outside feedback suggested adding a version of the task in English and having bilinguals complete both. Even though this suggestion make sense based on the goals of the dissertation, I haven't had enough time to fully implement it, but I intend to do so in the future; so maybe it is something that we could talk about during the questions session. 
+Before moving to the statistical analysis, I actually have a comment that I would like to address to my committee. Recent, outside feedback suggested adding a version of the task in English and having bilinguals complete both. Even though this suggestion make sense based on the goals of the dissertation, I haven't had enough time to fully implement it, but I intend to do so in the future; so maybe it is something that we could talk about during the questions session. 
 
 
 ## Statistical Analysis
@@ -120,15 +120,17 @@ The results from this study will contribute to heritage language acquisition the
 
 
 # Significance of the Project
-My dissertation aims to contribute to the fields of Hispanic linguistics and heritage language acquisition by addressing two of the most discussed topics in theoretical linguistics: future-time reference and epistemic modality. 
+All right, so let's talk about the significance of my project!
+
+My dissertation aims to contribute to the fields of Hispanic linguistics and heritage language acquisition by addressing two of the most discussed topics in theoretical linguistics: future-time reference, and epistemic modality. 
 
 By taking a variationist approach in the first two studies, I intend to contribute to theories of language change and synchronic variation in language contact situations. In addition, by examining structured variation within heritage grammars, I aim to contribute to the limited body of literature that employs this approach to study the acquisition of heritage languages.
 
-Moreover, this dissertation will make contributions to grammaticalization theory by exploring the pathways of change for less commonly studied paradigms in the expression of futurity using empirical data from a larger pool of participants. 
+Moreover, this dissertation will make contributions to grammaticalization theory by exploring the pathways of change for less commonly studied paradigms in the expression of futurity, using empirical data from a larger pool of participants. 
 
 Another key contribution of this work, especially Study 3, will lie in the field of heritage language acquisition. Theories of heritage language acquisition suggest that interface phenomena are problematic and vulnerable, especially for bilinguals and adult L2 learners, and are, therefore, prone to incomplete acquisition and attrition.
 
-Lastly, my dissertation will also have methodologically implications. Most of the reviewed studies with early Spanish-English bilinguals as participants, have limitations in their methods and, thus, their findings should be interpreted with caution. For example, some of them might have primed the use of certain forms or interpretations; did not control for factors that might had an impact on the results; and/or did not perform inferential statistics and, thus, the effect of the predictors is unknown. My studies will be informed by descriptions from theoretical linguistics and variationist sociolinguistics and will attempt to overcome these methodological limitations. 
+Lastly, my dissertation will also have methodologically implications. Most of the  studies with early Spanish-English bilinguals have limitations in their methods and, thus, their findings should be interpreted with caution. For example, some of them might have primed the use of certain forms or interpretations; did not control for factors that might had an impact on the results; and/or did not perform inferential statistics and, thus, the effect of the predictors is unknown. My studies will be informed by descriptions from theoretical linguistics and variationist sociolinguistics and will attempt to overcome these methodological limitations. 
 
 
 # Proposed Outline
