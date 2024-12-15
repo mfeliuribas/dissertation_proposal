@@ -177,7 +177,7 @@ Coding procedure:
 
 1. To what degree do early Spanish-English bilinguals in the U.S. report preference for the use of the PF, the PI, and the PP to express futurity?
 
-2. What effect do temporal reference and plan certainty have on the reported usage preferences of these forms, and is there a relationship between these two factors? 
+2. What effect do temporal reference and plan certainty have on the reported usage preferences of these forms, and is there a relationship between these factors? 
 
 3. a) How do the results of the bilinguals compare to those of Spanish monolinguals? <br>
   
@@ -379,7 +379,7 @@ Coding procedure:
 
 * Bayesian linear regression model in R (R Core Team, 2022)
 
-* Rating ~ verb form + temporal distance + plan certainty + group + temporal distance:plan certainty
+* Rating ~ verb form \* temporal distance \* plan certainty \* group
 
 * Contributions to theories of language variation and grammaticalization
 

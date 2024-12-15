@@ -88,7 +88,8 @@ Before moving to the statistical analysis, I actually have a comment that I woul
 
 
 ## Statistical Analysis
-**The data will be analyzed using a Bayesian linear regression model in R that will analyze rating as a function of verb form, temporal distance, plan certainty, and group, plus a two-way interaction between temporal distance and plan certainty. **
+The data will be analyzed using a Bayesian linear regression model in R that will test for main effects of form, temporal distance, plan certainty, and group, as well as their interactions.
+
 
 The results from this study will provide detail about less commonly studied forms to express futurity, will contribute to grammaticalization theory by examining the pathways of these alternative forms, and will inform theories of language change and variation in bilingual settings.
 
