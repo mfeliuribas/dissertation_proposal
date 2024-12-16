@@ -89,13 +89,13 @@ What about early bilinguals (i.e., *heritage speakers*)?
 
 Four goals **&rarr;** Three studies:
 
-1. To focus on synchronic variation in language contact situations **&rarr;** early Spanish-English bilinguals in the U.S.
+1. Focus on synchronic variation in language contact situations **&rarr;** early Spanish-English bilinguals in the U.S.
 
-2. To examine the linguistic factors that constrain the uses of the MF, the PF, and the PI with both future and epistemic readings (Study 1)
+2. Examine the linguistic factors that constrain the uses of the MF, the PF, and the PI with both future and epistemic readings (Study 1)
 
-3. To explore the variable use of the PI and the PP in contexts of futurity (Study 2)
+3. Explore the variable use of the PI and the PP in contexts of futurity (Study 2)
 
-4. To analyze the knowledge of the prospective and epistemic MF to better understand the semantic-pragmatic values that early bilinguals associate with this form (Study 3)
+4. Analyze the knowledge of the prospective and epistemic MF to better understand the semantic-pragmatic values that early bilinguals associate with this form (Study 3)
 
 ---
 # Study 1
@@ -496,7 +496,7 @@ Coding procedure:
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
-   <td style="font-size:17.75px; text-align:left; background: white !important;"> B. Juan piensa que Ricardo va a estar. </td>
+   <td style="font-size:17.75px; text-align:left; background: white !important;"> B. Juan piensa que Ricardo va a estar enfermo. </td>
   </tr>
   <tr>
    <td style="font-size:17.75px; text-align:left; background: white !important;"> </td>
